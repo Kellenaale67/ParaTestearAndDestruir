@@ -1,4 +1,28 @@
-/*holloguo*/
+body {
+    background-color: black;
+}
+.carta {
+    background-color: white; 
+    width: 30%;
+    height: 50%;
+    margin: auto;
+    margin-top: 250px;
+}
+.carta-header {
+    display: flex;
+}
 h1 {
-    color: aqua;
+    color: red;
+    margin: 50px;
+    padding: 20px;
+}
+img {
+    width: 150px;
+    height: 150px;
+    margin: 10px;  
+    border-radius: 100%; 
+    padding: auto;
+}
+.carta-body {
+    display: flex;   
 }
